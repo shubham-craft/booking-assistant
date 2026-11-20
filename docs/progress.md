@@ -1,0 +1,1 @@
+- 2026-11-19: Mac set up; folders, venv and packages in place
